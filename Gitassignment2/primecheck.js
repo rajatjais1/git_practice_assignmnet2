@@ -12,4 +12,4 @@ else{
   console.log("Not A Prime Number")
 }
 
-//now done all
+//this text is written by sanket
